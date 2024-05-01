@@ -51,7 +51,7 @@ The mnemoics used in this tool is heavily inspired by <a href="https://github.co
   <tr>
   <th>TYNL</th>
   <th>It add text want to type in the code and put the cursor on the next line.</th>
-  <th>TYNL ArduinoHID Scripter</th>
+  <th>TYNL DigiSparkHID Scripter</th>
  </tr>
   <tr>
   <th>WAIT</th>
